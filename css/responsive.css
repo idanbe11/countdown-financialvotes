@@ -1,0 +1,525 @@
+
+            @media (max-width: 1650px) {
+              .nav-link {
+                font-size: 0.99vw;
+                
+              }
+            }
+            @media (max-width: 1440px) {
+              .nav-link {
+                font-size: 1.1vw;
+                
+              }
+            }
+            @media (max-width: 1150px) {
+              .nav-link {
+                font-size: 1.1vw;
+                font-weight: 600;
+              }
+            }
+       
+         
+         
+
+            
+
+
+@media (min-width: 1000px) and (max-width: 1350px) { 
+  .service_text
+  {
+    text-align:end;
+    font-size: 1.6vw;
+  
+  }
+}
+
+@media (min-width: 800px) and (max-width: 1000px) { 
+  .service_text
+  {
+    text-align:end;
+    font-size: 1.8vw;
+  
+  }
+}
+@media (min-width: 600px) and (max-width: 800px) { 
+  .service_text
+  {
+    text-align:end;
+    font-size: 2.1vw;
+  
+  }
+}
+@media (min-width: 300px) and (max-width: 600px) { 
+  .service_text
+  {
+    text-align:end;
+    font-size: 2.4vw;
+  
+  }
+}
+@media (min-width: 390px) and (height: 844px) { 
+  .service_text
+  {
+    text-align:end;
+    font-size: 3vw;
+  
+  }
+}
+
+@media (min-width: 800px) and (max-width: 1350px) { 
+  .service_title
+  {
+    text-align: center;
+    font-size: 4.2vw; 
+    color: rgb(0, 0, 0);
+  
+  }
+}
+@media (min-width: 200px) and (max-width: 800px) { 
+  .service_title
+  {
+    text-align: center;
+    font-size: 4.4vw; 
+    color: rgb(0, 0, 0);
+  
+  }
+}
+
+@media (min-width: 650px) and (max-width: 1350px) { 
+  .column
+  {
+    width: 45%;
+    padding: 10px;
+    height: 25vw; /* Should be removed. Only for demonstration */ 
+  
+  }
+}
+@media (min-width: 650px) and (max-width: 900px) { 
+  .column
+  {
+    width: 45%;
+    padding: 10px;
+    height: 30vw; /* Should be removed. Only for demonstration */ 
+  
+  }
+}
+@media (min-width: 300px) and (max-width: 650px) { 
+  .column
+  {
+    width: 48%;
+    padding: 10px;
+    height: 36vw; /* Should be removed. Only for demonstration */ 
+  
+  }
+}
+@media (min-width: 300px) and (max-width: 480px) { 
+  .column
+  {
+    width: 50%;
+    padding: 10px;
+    height: 38vw; /* Should be removed. Only for demonstration */ 
+  
+  }
+}
+
+@media (min-width: 650px) and (max-width: 950px) { 
+  .p_column2
+  {
+    text-align: end;
+    font-size: 2.8vw; 
+    margin-right: 45px;
+  
+  }
+}
+@media (min-width: 300px) and (max-width: 650px) { 
+  .p_column2
+  {
+    text-align: end;
+    font-size: 3.2vw; 
+    margin-right: 45px;
+  
+  }
+}
+
+
+@media (min-width: 600px) and (max-width: 950px) { 
+  .text33
+  {
+    text-align: end;
+    font-size: 2.9vw;
+    margin-right: 45px;
+  
+  }
+}
+
+@media (min-width: 550px) and (max-width: 700px) { 
+  .text33
+  {
+    text-align: end;
+    font-size: 3.4vw;
+    margin-right: 45px;
+  
+  }
+}
+
+@media (min-width: 300px) and (max-width: 550px) { 
+  .text33
+  {
+    text-align: end;
+    font-size: 3.9vw;
+    margin-right: 45px;
+  
+  }
+}
+
+
+@media (min-width: 300px) and (max-width: 950px) { 
+  .p_text
+  {
+  text-align: end;
+  font-size: 2.1vw;
+  margin-right: 45px; 
+  
+  }
+}
+@media (min-width: 550px) and (max-width: 700px) { 
+  .p_text
+  {
+  text-align: end;
+  font-size: 2.7vw;
+  margin-right: 45px; 
+  
+  }
+}
+@media (min-width: 300px) and (max-width: 550px) { 
+  .p_text
+  {
+  text-align: end;
+  font-size: 3.1vw;
+  margin-right: 45px; 
+  
+  }
+}
+
+
+
+
+
+
+@media (min-width: 650px) and (max-width: 950px) { 
+  .didyouKnew
+  {
+    font-size: 5.5vw; 
+  }
+}
+@media (min-width: 300px) and (max-width: 650px) { 
+  .didyouKnew
+  {
+    font-size: 7vw; 
+  }
+}
+
+
+@media (min-width: 1150px) and (max-width: 1350px) { 
+  .slogen
+  {
+    font-size: 34px;
+  }
+}
+@media (min-width: 1000px) and (max-width: 1150px) { 
+  .slogen
+  {
+    font-size: 29.5px;
+  }
+}
+@media (min-width: 800px) and (max-width: 1000px) { 
+  .slogen
+  {
+    font-size: 26.5px;
+  }
+}
+@media (min-width: 700px) and (max-width: 900px) { 
+  .slogen
+  {
+    font-size: 23.5px;
+  }
+}
+@media (min-width: 600px) and (max-width: 800px) { 
+  .slogen
+  {
+    font-size: 20.5px;
+  }
+}
+@media (min-width: 200px) and (max-width: 700px) { 
+  .slogen
+  {
+    font-size: 17.5px;
+  }
+}
+
+@media (min-width: 650px) and (max-width: 900px) { 
+  .more > a
+  {
+    font-size: 23px;
+  }
+}
+@media (min-width: 100px) and (max-width: 650px) { 
+  .more > a
+  {
+    font-size: 20px;
+  }
+}
+
+
+
+
+
+
+@media (min-width: 700px) and (max-width:1200px) { 
+  .li a {
+
+  padding: 11px 10px 144px 125px ;
+
+     
+  }}
+
+  @media (min-width: 992px) and (max-width:1200px) { 
+    .active {
+  
+      padding: 14px 60px 14px 60px ;
+      font-size: 16px;
+    }}
+
+  
+    @media (min-width: 700px) and (max-width:991px) { 
+      .active {
+    
+        padding: 14px 40px 14px 40px ;
+        font-size: 15px;
+      }}
+
+      @media (min-width: 500px) and (max-width:767px) { 
+        .active {
+      
+          padding: 14px 20px 14px 20px ;
+          font-size: 14px;
+        }}
+
+        @media (min-width: 400px) and (max-width:575px) { 
+          .active {
+        
+            padding: 14px 25px 14px 25px ;
+            font-size: 14.5px;
+          }}
+          @media (min-width: 100px) and (max-width:575px) { 
+            .logo-marim {
+          
+              width: 69%;
+              float: left;
+              margin-top: 50px;
+            }}
+            @media (min-width: 400px) and (max-width:575px) { 
+               .test{
+                font-size: 20px;
+               
+              }}
+              @media (min-width: 400px) and (max-width:575px) { 
+                .tel-area a {
+                 font-size: 19px;
+               }}
+               @media (min-width: 100px) and (max-width:988px) { 
+                .social-icons {
+                 display: none;
+               }}
+
+               @media (min-width: 400px) and (max-width:544px) { 
+                .active{
+                  padding: 14px 22px 14px 22px ;
+                  font-size: 14px;
+               }}
+               @media (min-width: 400px) and (max-width:504px) { 
+                .active{
+                  padding: 14px 22px 14px 22px ;
+                  font-size: 13px;
+               }}
+               @media (min-width: 400px) and (max-width:486px) { 
+                .active{
+                  padding: 14px 17px 14px 17px ;
+                  font-size: 13px;
+               }}
+
+               @media (min-width: 400px) and (max-width:465px) { 
+                .tel-area a {
+                 font-size: 17px;
+               }}
+               @media (min-width: 400px) and (max-width:465px) { 
+                .test{
+                 font-size: 16px;
+                 font-weight: 600;
+
+               }}
+
+               @media (min-width: 300px) and (max-width:436px) { 
+                .active{
+                  padding: 13px 14px 13px 14px ;
+                  font-size: 12.5px;
+               }}
+               @media (min-width: 300px) and (max-width:438px) { 
+                .tel-area a {
+                 font-size: 14px;
+               }}
+               @media (min-width: 300px) and (max-width:438px) { 
+                .test{
+                 font-size: 12.9px;
+
+               }}
+
+               @media (min-width: 300px) and (max-width:397px) { 
+                .active{
+                  padding: 11px 12px 11px 12px ;
+                  font-size: 12px;
+               }}
+          
+
+               @media (min-width: 300px) and (max-width:369px) { 
+                .active{
+                  padding: 0px 12px 12px 0px ;
+                  font-size: 12px;
+               }}
+
+               @media (min-width: 250px) and (max-width:308px) { 
+                .active{
+                  padding: 0px 10px 10px 0px ;
+                  font-size: 11px;
+               }}
+
+
+
+
+
+
+
+
+
+
+
+               @media (min-width: 100px) and (max-width:400px) { 
+                .tel-area a {
+                 display: none;
+               }}
+               @media (min-width: 100px) and (max-width:400px) { 
+                .test{
+                  display: none;
+
+               }}
+               @media (min-width: 100px) and (max-width:400px) { 
+                .logo-marim{
+                  
+                  width: 100%;
+                  margin-left: 50%;
+                  margin-right: 50%;
+                  margin-top: 50px;
+                  display: block;
+
+               }}
+           
+
+
+
+
+
+
+
+
+
+
+
+
+
+               /* phones */
+               @media (min-width: 375px) and (max-width:375px) and (max-height:667px) { 
+                .tel-area a {
+                 font-size: 12px;
+               }}
+
+               @media (min-width: 375px) and (max-width:375px) and (max-height:667px) { 
+                .active {
+                  padding: 13px 12px 13px 11px ;
+                  font-size: 12.4px;
+               }}
+
+               @media (min-width: 390px) and (max-width:390px) and (max-height:844px) { 
+                .tel-area a {
+                 font-size: 13px;
+               }}
+               @media (min-width: 390px) and (max-width:390px) and (max-height:844px) { 
+                .active {
+                  padding: 13px 12px 13px 12px ;
+                  font-size: 13px;
+               }}
+
+               @media (min-width: 393px) and (max-width:393px) and (max-height:851px) { 
+                .tel-area a {
+                 font-size: 13.4px;
+               }}
+               @media  (min-width: 393px) and (max-width:393px) and (max-height:851px) { 
+                .active {
+                  padding: 5px 12px 5px 12px ;
+                  font-size: 13px;
+               }}
+
+
+
+               @media  (min-width: 360px) and (max-width:360px) and (max-height:740px) { 
+                .tel-area a {
+                 font-size: 11px;
+               }}
+               @media (min-width: 360px) and (min-width: 360px) and (max-width:740px) { 
+                .test{
+                 font-size: 12px;
+                 font-weight: 600;
+
+               }}
+               @media (min-width: 360px) and (max-width:360px) and (max-height:740px) { 
+                .active {
+                  padding: 4px 11px 4px 11px ;
+                  font-size: 12px;
+               }}
+
+
+               @media (min-width: 280px) and (max-width:280px) and (max-height:653px) { 
+                .tel-area a {
+                 font-size: 11px;
+               }}
+               @media (min-width: 280px) and (max-width:280px) and (max-height:653px) { 
+                .test{
+                 font-size: 12px;
+                 font-weight: 600;
+               }}
+               @media (min-width: 280px) and (max-width:280px) and (max-height:653px) { 
+                .active {
+                  padding: 4px 11px 4px 11px ;
+                  font-size: 12px;
+               }}
+
+
+               @media (min-width: 1000px) and (max-width:1320px){ 
+                .contactMedia {
+                  height: 0.5vw;
+                  width: 110vw;
+               }}
+
+               @media (min-width: 900px) and (max-width: 990px){ 
+                .responsiveVideo {
+                  padding-left:44px;
+                  padding-right:94px;
+                  padding-top:95px;
+               }
+              }
+              @media (min-width: 800px) and (max-width: 900px){ 
+                .responsiveVideo {
+                  padding-left:44px;
+                  padding-right:134px;
+                  padding-top:95px;
+               }
+              }
