@@ -103,7 +103,7 @@
   
   }
 }
-@media (min-width: 300px) and (max-width: 650px) { 
+@media (min-width: 480px) and (max-width: 650px) { 
   .column
   {
     width: 48%;
@@ -117,7 +117,7 @@
   {
     width: 50%;
     padding: 10px;
-    height: 38vw; /* Should be removed. Only for demonstration */ 
+    height: 45vw; /* Should be removed. Only for demonstration */ 
   
   }
 }
@@ -126,7 +126,7 @@
   .p_column2
   {
     text-align: end;
-    font-size: 2.8vw; 
+    font-size: 3vw; 
     margin-right: 45px;
   
   }
@@ -135,7 +135,7 @@
   .p_column2
   {
     text-align: end;
-    font-size: 3.2vw; 
+    font-size: 4.5vw; 
     margin-right: 45px;
   
   }
@@ -146,7 +146,7 @@
   .text33
   {
     text-align: end;
-    font-size: 2.9vw;
+    font-size: 3.1vw;
     margin-right: 45px;
   
   }
@@ -156,7 +156,7 @@
   .text33
   {
     text-align: end;
-    font-size: 3.4vw;
+    font-size: 3.6vw;
     margin-right: 45px;
   
   }
@@ -166,7 +166,7 @@
   .text33
   {
     text-align: end;
-    font-size: 3.9vw;
+    font-size: 4.1vw;
     margin-right: 45px;
   
   }
@@ -177,7 +177,7 @@
   .p_text
   {
   text-align: end;
-  font-size: 2.1vw;
+  font-size: 2.3vw;
   margin-right: 45px; 
   
   }
@@ -186,7 +186,7 @@
   .p_text
   {
   text-align: end;
-  font-size: 2.7vw;
+  font-size: 3vw;
   margin-right: 45px; 
   
   }
@@ -195,7 +195,7 @@
   .p_text
   {
   text-align: end;
-  font-size: 3.1vw;
+  font-size: 3.3vw;
   margin-right: 45px; 
   
   }
@@ -309,7 +309,7 @@
           .active {
         
             padding: 14px 25px 14px 25px ;
-            font-size: 14.5px;
+            font-size: 16px;
           }}
           @media (min-width: 100px) and (max-width:575px) { 
             .logo-marim {
