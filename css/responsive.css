@@ -503,12 +503,6 @@
                }}
 
 
-               @media (min-width: 1000px) and (max-width:1320px){ 
-                .contactMedia {
-                  height: 0.5vw;
-                  width: 110vw;
-               }}
-
                @media (min-width: 900px) and (max-width: 990px){ 
                 .responsiveVideo {
                   padding-left:44px;
@@ -523,3 +517,20 @@
                   padding-top:95px;
                }
               }
+
+              @media (min-width: 100px) and (max-width: 1200px){ 
+                .contact_Text{
+
+                  text-align: center;
+                  font-size: 6vw;
+               }
+              }
+              @media (min-width: 100px) and (max-width: 650px){ 
+                .responsiveDidyouKnew  ,.column2{
+                
+                  width: 100%;
+               }
+              }
+              
+          
+            
