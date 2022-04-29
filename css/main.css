@@ -440,7 +440,7 @@ text-decoration:none;
 .p_text{
   text-align: end;
   font-size: 1.5vw;
-  margin-right: 45px; 
+  margin-right: 25px; 
 }
 
 * {
@@ -478,13 +478,13 @@ text-decoration:none;
 .text33{
   text-align: end;
    font-size: 2vw;
-  margin-right: 45px;
+  margin-right: 25px;
 }
 
 .p_column2{
   text-align: end; 
   font-size: 2.5vw;
-  margin-right: 45px;
+  margin-right: 25px;
 }
 
 
@@ -504,3 +504,20 @@ text-decoration:none;
   padding-left:44px;
   padding-top:95px;
 }
+.contact_Text{
+  text-align: end;
+   font-size: 3.5vw;
+}
+
+.background_Contact{
+
+  background-color: #f9faff;
+  position: relative;
+  border: 1px solid black;
+  border-radius: 5% 5% 5% 5%;
+  margin-right: 400px;
+  margin-left: 400px;
+  padding-bottom: 150px;
+  box-shadow: 0 6px 10px 0 rgb(154 160 185 / 20%), 0 10px 20px 0 rgb(166 173 201 / 20%);
+}
+
