@@ -533,3 +533,10 @@
               
           
             
+
+              @media (min-width: 100px) and (max-width: 650px){ 
+                .img_slide  {
+                  height: 500px;
+               }
+              }
+          
