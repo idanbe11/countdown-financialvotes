@@ -527,7 +527,7 @@
               }
               @media (min-width: 100px) and (max-width: 650px){ 
                 .responsiveDidyouKnew  ,.column2{
-                
+                  height: 100%;
                   width: 100%;
                }
               }
