@@ -1,5 +1,4 @@
-
-            @media (max-width: 1650px) {
+  @media (max-width: 1650px) {
               .nav-link {
                 font-size: 0.99vw;
                 
@@ -28,7 +27,7 @@
   .service_text
   {
     text-align:end;
-    font-size: 1.6vw;
+    font-size: 1.7vw;
   
   }
 }
@@ -37,7 +36,7 @@
   .service_text
   {
     text-align:end;
-    font-size: 1.8vw;
+    font-size: 1.9vw;
   
   }
 }
@@ -45,7 +44,7 @@
   .service_text
   {
     text-align:end;
-    font-size: 2.1vw;
+    font-size: 2.2vw;
   
   }
 }
@@ -53,7 +52,7 @@
   .service_text
   {
     text-align:end;
-    font-size: 2.4vw;
+    font-size: 2.5vw;
   
   }
 }
@@ -61,7 +60,7 @@
   .service_text
   {
     text-align:end;
-    font-size: 3vw;
+    font-size: 3.1vw;
   
   }
 }
