@@ -147,7 +147,7 @@
   {
     text-align: end;
     font-size: 3.1vw;
-    margin-right: 45px;
+    margin-right: 25px;
   
   }
 }
@@ -157,7 +157,7 @@
   {
     text-align: end;
     font-size: 3.6vw;
-    margin-right: 45px;
+    margin-right: 25px;
   
   }
 }
@@ -167,7 +167,7 @@
   {
     text-align: end;
     font-size: 4.1vw;
-    margin-right: 45px;
+    margin-right: 25px;
   
   }
 }
@@ -178,7 +178,7 @@
   {
   text-align: end;
   font-size: 2.3vw;
-  margin-right: 45px; 
+  margin-right: 25px; 
   
   }
 }
@@ -187,7 +187,7 @@
   {
   text-align: end;
   font-size: 3vw;
-  margin-right: 45px; 
+  margin-right: 25px; 
   
   }
 }
@@ -196,7 +196,7 @@
   {
   text-align: end;
   font-size: 3.3vw;
-  margin-right: 45px; 
+  margin-right: 25px; 
   
   }
 }
@@ -527,7 +527,7 @@
               }
               @media (min-width: 100px) and (max-width: 650px){ 
                 .responsiveDidyouKnew  ,.column2{
-                  height: 100%;
+                height: 100%;
                   width: 100%;
                }
               }
