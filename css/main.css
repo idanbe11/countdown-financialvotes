@@ -404,7 +404,7 @@ li a:hover:not(.active) {
 }
 
 .active {
-  background-color: #5e72e4;
+  background-color: white;
   font-size: 18px;
   position: relative;
   color: black;
