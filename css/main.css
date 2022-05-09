@@ -81,8 +81,6 @@ body {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
-  
-  
 }
 
 .row{
@@ -198,9 +196,6 @@ body {
 
 #boxes-section {
   text-align: center;
-
- 
- 
 }
 
 .section {
@@ -409,7 +404,7 @@ li a:hover:not(.active) {
 }
 
 .active {
-  background-color: white;
+  background-color: #5e72e4;
   font-size: 18px;
   position: relative;
   color: black;
@@ -428,7 +423,7 @@ text-decoration:none;
 }
 
 .slogen{
-  font-size: 38px;
+  font-size: 40px;
   text-align: center;
 }
 .didyouKnew{
