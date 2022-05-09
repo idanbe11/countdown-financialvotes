@@ -270,10 +270,19 @@
   }
 }
 
+@media (min-width: 992px) and (max-width:1200px) { 
+  .actives{
+
+    padding: 14px 55px 14px 55px ;
+    font-size: 18px;
+        
+    
+  }
+}
 
 
     @media (min-width: 700px) and (max-width:991px) { 
-      .active {
+      .active , .a{
     
         padding: 14px 30px 14px 30px ;
         font-size: 18px;
@@ -283,7 +292,7 @@
 
 
       @media (min-width: 505px) and (max-width:767px) { 
-        .active {
+        .active , .a{
       
           padding: 14px 10px 14px 10px ;
           font-size: 17px;
@@ -291,7 +300,7 @@
       }
 
         @media (min-width: 455px) and (max-width:504px) { 
-          .active {
+          .active , .a{
         
             padding: 14px 8px 14px 8px ;
             font-size: 16px;
@@ -299,41 +308,41 @@
         }
 
         @media (min-width: 426px) and (max-width:454px) { 
-          .active{
+          .active , .a{
             padding: 12px 6px 12px 6px ;
             font-size: 15.5px;
          }
         }
 
         @media (min-width: 397px) and (max-width:425px) { 
-          .active{
+          .active , .a{
             padding: 12px 4px 12px 4px ;
             font-size: 15px;
          }
         }
         @media (min-width: 379px) and (max-width:396px) { 
-          .active{
+          .active , .a{
             padding: 12px 4px 12px 4px;
             font-size: 14px;
          }
         }
 
          @media (min-width: 342px) and (max-width:378px) { 
-          .active{
+          .active , .a{
             padding: 12px 4px 12px 4px;
             font-size: 12px;
          }
         }
 
 /* iphone se*/   @media (min-width: 375px) and (max-width:375px) and (max-height:667px) { 
-          .active {
+          .active , .a{
             padding: 12px 4px 12px 4px;
             font-size: 13.8px;
          }
         }
 
 /* iphone 12 pro*/  @media (min-width: 390px) and (max-width:390px) and (max-height:844px) { 
-          .active {
+          .active , .a{
             padding: 12px 4px 12px 4px;
             font-size: 14.5px;
          }
@@ -341,28 +350,28 @@
 
     
 /* pixel 5 */  @media  (min-width: 393px) and (max-width:393px) and (max-height:851px) { 
-          .active {
+          .active , .a{
             padding: 12px 4px 12px 4px;
             font-size: 14.5px;
          }
         }
         
 /* galaxy s8 */  @media (min-width: 360px) and (max-width:360px) and (max-height:740px) { 
-          .active {
+          .active , .a{
             padding: 12px 4px 12px 4px;
             font-size: 12.5px;
          }
         }
         
 /* galaxy s20 ultra */ @media (min-width: 412px) and (max-width:412px) and (max-height:915px) { 
-          .active {
+          .active , .a{
             padding: 12px 4px 12px 4px;
             font-size: 15.5px;
          }
         }
 
 /* surface pro 7 */ @media (min-width: 912px) and (max-width:912px) and (max-height:1368px) { 
-          .active {
+          .active , .a{
             padding: 12px 10px 12px 10px;
             font-size: 29px;
          }
@@ -371,7 +380,7 @@
 
 
         @media (min-width: 280px) and (max-width:280px) and (max-height:653px) { 
-          .active {
+          .active , .a{
             padding: 4px 11px 4px 11px ;
             font-size: 12px;
          }
