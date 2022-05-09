@@ -380,6 +380,19 @@ ul {
 
 
 
+li{
+  text-align: center;
+  text-decoration: none;
+  float: right;
+}
+
+li > a{
+  color: white;
+  text-align: center;
+  padding: 14px 75px 14px 75px ;
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+}
 
 button  {
   color: white;
@@ -393,6 +406,19 @@ button  {
 button:hover:not(.active) {
   color: rgb(0, 0, 0);
 }
+
+.actives{
+  font-size: 18px;
+  color: black;
+  min-height: 1px;
+}
+
+.actives:hover {
+  color:white;
+  text-decoration:none;
+  
+  }
+
 
 .active {
   background-color: #a2ace6;
@@ -413,6 +439,9 @@ border-radius: 10px 2px 10px 2px;
 text-decoration:none;
 
 }
+
+
+
 
 .slogen{
   font-size: 40px;
@@ -508,17 +537,3 @@ text-decoration:none;
   box-shadow: 0 6px 10px 0 rgb(154 160 185 / 20%), 0 10px 20px 0 rgb(166 173 201 / 20%);
 }
 
-
-li{
-  text-align: center;
-  text-decoration: none;
-  float: right;
-}
-
-li > a{
-  color: white;
-  text-align: center;
-  padding: 14px 75px 14px 75px ;
-  text-decoration: none;
-  color: rgb(0, 0, 0);
-}
