@@ -449,13 +449,7 @@
            font-size: 13.4px;
          }
         }
-          @media (min-width: 100px) and (max-width:575px) { 
-            .logo-marim {
-          
-              width: 69%;
-              float: left;
-              margin-top: 50px;
-            }}
+       
             @media (min-width: 400px) and (max-width:575px) { 
                .test{
                 font-size: 20px;
@@ -524,7 +518,13 @@
 
                }}
            
-
+               @media (min-width: 100px) and (max-width:575px) { 
+                .logo-marim {
+              
+                  width: 80%;
+                  float: left;
+                  margin-top: 50px;
+                }}
 
 
 
